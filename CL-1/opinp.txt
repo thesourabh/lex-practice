@@ -1,0 +1,5 @@
+temp0 = a + b
+temp1 = a * b
+temp5 = a * b
+temp2 = temp0 + temp5
+temp3 = temp0 + temp1

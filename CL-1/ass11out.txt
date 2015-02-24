@@ -1,0 +1,9 @@
+MOV R0, a
+MOV R1, b
+ADD R0, R1
+MOV temp1, R0
+
+MOV R0, temp1
+MOV R1, temp1
+ADD R0, R1
+MOV temp2, R0

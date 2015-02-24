@@ -1,0 +1,7 @@
+bash-4.2$ lex ass2.l
+bash-4.2$ gcc lex.yy.c
+bash-4.2$ ./a.out
+Vowels: 10
+Whitespaces: 5
+Newlines: 2
+

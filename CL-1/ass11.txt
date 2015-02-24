@@ -1,0 +1,2 @@
+temp1 = a + b
+temp2 = temp1 + temp1

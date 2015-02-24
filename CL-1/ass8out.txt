@@ -1,0 +1,13 @@
+bash-4.2$ lex ass8.l
+bash-4.2$ gcc lex.yy.c
+bash-4.2$ ./a.out
+S. No.	Name	Type	Size
+------------------------
+1	a	int	4
+2	b	int	4
+3	c	int	4
+4	cels	float	4
+5	fahr	float	4
+6	ch	char	1
+7	i	int	4
+

@@ -1,0 +1,9 @@
+#include<stdio.h>
+/* Start here */
+
+void main()
+{
+  int a;
+  printf("HEllo World");
+  getch();
+}
